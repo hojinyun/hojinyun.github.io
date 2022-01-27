@@ -107,6 +107,7 @@ author:
   bio              : "I am a Korean student major in Computer Engineering💻 at HKUST \n My interest is in Computer Vision👀 and Robotics🤖"
   location         : "Clear Water Bay, Hong Kong"
   email            : "hojinyun.dev@gmail.com"
+  github           : "https://github.com/hojinyun"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
