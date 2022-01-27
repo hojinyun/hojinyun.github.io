@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Hojin Yun"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Korean🇰🇷 computer engineering💻 student in HKUST🏫 \n interested in Computer Vision👀 and Robotics🤖"
+  bio              : "I am a Korean student major in Computer Engineering💻 at HKUST🏫 \n I am interested in Computer Vision👀 and Robotics🤖"
   location         : "HKUST, Clear Water Bay, Hong Kong"
   email            : 
   links:
