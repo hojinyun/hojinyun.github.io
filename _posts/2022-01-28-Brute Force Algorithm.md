@@ -7,7 +7,7 @@ sidebar:
 title:  "Brute Force Algorithm"
 categories: [Study, Algorithm & Data Structure]
 ---
-# Brute Force Algorithm
+# Brute Force Algorithm<br>
 
 ## 설명:
 
