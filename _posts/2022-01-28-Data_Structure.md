@@ -9,7 +9,7 @@ title:  "Data Structure(자료구조)"
 categories: [Algorithm & Data Structure]
 tags: [Data Structure]
 ---
-#자료구조
+# 자료구조
 
 ## 설명:
 
