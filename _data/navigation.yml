@@ -15,7 +15,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 website-sidebar:
-- title: "**About Me**"
+- title: "😀 About Me "
   url: /
   children:
     - title: "Curriculum Vitae"
@@ -26,13 +26,13 @@ website-sidebar:
       url: /
     - title: "Child Page A4"
       url: /
-- title: "**Projects**"
+- title: "⚙️ Projects"
   children:
     - title: "RoboMaster Enterprise"
       url: /
     - title: "Phone Comparison Website"
       url: /
-- title: "**Study**"
+- title: "📒 Study"
   children:
     - title: "Algorithm & Data Structure"
       url: /
