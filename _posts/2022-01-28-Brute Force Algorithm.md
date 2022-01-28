@@ -5,7 +5,7 @@ sidebar:
   title: "Navigation"
   nav: website-sidebar
 title:  "Brute Force Algorithm"
-categories: [Algorithm & Data Structure]
+categories: [Study, Algorithm & Data Structure]
 ---
 
 ### 설명:
