@@ -42,15 +42,15 @@ website-sidebar:
   children:
     - title: "Algorithm & Data Structure"
       url: /
-      chlidren:
-        - title: "Sorting(정렬)"
-          url: /
-        - title: "Brute Force Algorithm(브루트포스 알고리즘)"
-          url: /
-        - title: "Data Structure(자료구조)"
-          url: /
-        - title: "Math(수학)"
-          url: /
+     # chlidren:
+    #    - title: "Sorting(정렬)"
+    #      url: /
+   #     - title: "Brute Force Algorithm(브루트포스 알고리즘)"
+    #      url: /
+  #      - title: "Data Structure(자료구조)"
+   #       url: /
+  #      - title: "Math(수학)"
+  #        url: /
     - title: "Machine Learning"
       url: /
       chlidren:
