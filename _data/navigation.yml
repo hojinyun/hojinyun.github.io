@@ -15,21 +15,22 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 website-sidebar:
-- title: "Parent Page A"
+- title: "About Me"
+  url: /
   children:
-    - title: "Child Page A1"
-      url: /
-    - title: "Child Page A2"
+    - title: "Curriculum Vitae"
+      url: /curriculum_vitae
+    - title: "Projects"
       url: /
     - title: "Child Page A3"
       url: /
     - title: "Child Page A4"
       url: /
-- title: "Parent Page B"
+- title: "Projects"
   children:
-    - title: "Child Page B1"
+    - title: "RoboMaster Enterprise"
       url: /
-    - title: "Child Page B2"
+    - title: "Phone Comparison Website"
       url: /
     - title: "Child Page B3"
       url: /
@@ -37,21 +38,38 @@ website-sidebar:
       url: /
     - title: "Child Page B5"
       url: /
-- title: "Parent Page C"
+- title: "Study"
   children:
-    - title: "Child Page C1"
+    - title: "Algorithm & Data Structure"
       url: /
-    - title: "Child Page C2"
+      chlidren:
+        - title: "Sorting(정렬)"
+          url: /
+        - title: "Brute Force Algorithm(브루트포스 알고리즘)"
+          url: /
+        - title: "Data Structure(자료구조)"
+          url: /
+        - title: "Math(수학)"
+          url: /
+    - title: "Machine Learning"
       url: /
-    - title: "Child Page C3"
+      chlidren:
+        - title: "“머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로” 정리"
+          url: /
+        chlidren:
+        - title: "1장 - 컴퓨터는 데이터에서 배운다"
+          url: /
+        - title: "2장 - 간단한 분류 알고리즘 훈련"
+          url: /
+    - title: "Computer Vision"
       url: /
+      chlidren:
+        - title: "“OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝” 정리"
+          url: /
+          chlidren:
+        - title: "1장 - 컴퓨터 비전과 영상의 이해"
+          url: /
     - title: "Child Page C4"
       url: /
     - title: "Child Page C5"
-      url: /
-- title: "Parent Page D"
-  children:
-    - title: "Child Page D1"
-      url: /
-    - title: "Child Page D2"
       url: /
