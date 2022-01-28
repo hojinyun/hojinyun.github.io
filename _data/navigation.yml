@@ -69,7 +69,3 @@ website-sidebar:
           chlidren:
         - title: "1장 - 컴퓨터 비전과 영상의 이해"
           url: /
-    - title: "Child Page C4"
-      url: /
-    - title: "Child Page C5"
-      url: /
