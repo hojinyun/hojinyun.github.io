@@ -1,6 +1,9 @@
 ---
 layout: single
-title:  "Brute Force Algorithem"
+sidebar:
+  title: "Navigation"
+  nav: website-sidebar
+title:  "Brute Force Algorithm"
 categories: [Algorithm & Data Structure]
 ---
 
