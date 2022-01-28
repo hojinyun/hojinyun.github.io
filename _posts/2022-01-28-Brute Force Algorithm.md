@@ -2,7 +2,8 @@
 layout: single
 author_profile: false
 sidebar:
-  title: "Navigation"
+  title: "Home"
+  url: /
   nav: website-sidebar
 title:  "Brute Force Algorithm"
 categories: [Algorithm & Data Structure]
