@@ -3,7 +3,6 @@ layout: single
 author_profile: false
 sidebar:
   title: "Site Map"
-  url: /burte-force/
   nav: website-sidebar
 title:  "Brute Force Algorithm(브루트 포스 알고리즘)"
 categories: [Algorithm & Data Structure]
