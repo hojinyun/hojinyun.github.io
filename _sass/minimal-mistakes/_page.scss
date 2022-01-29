@@ -35,6 +35,11 @@ body {
   flex: 1 0 auto;
 }
 
+.center {
+  display: block;
+  margin: auto;
+}
+
 .page {
   @include breakpoint($large) {
     float: right;
