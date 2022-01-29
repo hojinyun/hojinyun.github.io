@@ -35,7 +35,7 @@ website-sidebar:
 - title: "📒 Study"
   children:
     - title: "Algorithm & Data Structure"
-      url: /
+      url: /algorithm-and-data-structure/
     - title: "Machine Learning"
       url: /
     - title: "Computer Vision"
