@@ -9,6 +9,7 @@ title:  "Brute Force Algorithm(브루트 포스 알고리즘)"
 categories: [Algorithm & Data Structure]
 ---
 # 브루트 포스 알고리즘
+
 ## 설명:
 
 Brute Force는 억지 기법이라 라는 뜻이며 알고리즘 문제를 무식하게 푼다는 뜻이다. 쉽게 말해  모든 경우의 수를 일일이 대입해보아 문제를 푸는방식이다. 
