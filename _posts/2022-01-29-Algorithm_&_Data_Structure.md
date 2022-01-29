@@ -1,3 +1,12 @@
+---
+layout: single
+author_profile: false
+sidebar:
+  title: "Site Map"
+  nav: website-sidebar
+title:  "Algorithm & Data Structure Study (알고리즘과 자료구조)"
+categories: [Algorithm & Data Structure]
+---
 # Algorithm & Data Structure Study
 
 [알고리즘 & 자료구조 문제풀이 노션](https://hojinyun.notion.site/Algorithm-Data-Structure-Study-5e21cd5555b84504b5f2537e776310df)
