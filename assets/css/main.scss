@@ -1,38 +1,25 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@font-face {
-    font-family: 'paybooc-Medium';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/paybooc-Medium.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'paybooc-Bold';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/paybooc-Bold.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 
-$base00: #fafafa !default;
-$base01: #073642 !default;
-$base02: #586e75 !default;
-$base03: #657b83 !default;
-$base04: #839496 !default;
-$base05: #586e75 !default;
-$base06: #eee8d5 !default;
-$base07: #fdf6e3 !default;
-$base08: #dc322f !default;
-$base09: #cb4b16 !default;
-$base0a: #b58900 !default;
-$base0b: #859900 !default;
-$base0c: #2aa198 !default;
-$base0d: #268bd2 !default;
-$base0e: #6c71c4 !default;
-$base0f: #d33682 !default;
+$base00: #fafafa !important;
+$base01: #073642 !important;
+$base02: #586e75 !important;
+$base03: #657b83 !important;
+$base04: #839496 !important;
+$base05: #586e75 !important;
+$base06: #eee8d5 !important;
+$base07: #fdf6e3 !important;
+$base08: #dc322f !important;
+$base09: #cb4b16 !important;
+$base0a: #b58900 !important;
+$base0b: #859900 !important;
+$base0c: #2aa198 !important;
+$base0d: #268bd2 !important;
+$base0e: #6c71c4 !important;
+$base0f: #d33682 !important;
 
 @import "minimal-mistakes"; // main partials
