@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: false
-url: /data-structure/
 sidebar:
   title: "Menu"
   nav: website-sidebar
