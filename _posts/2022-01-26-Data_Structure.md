@@ -19,13 +19,13 @@ tags: [Data Structure]
 
 ## 자료구조 종류:
 
-[스택](Data%20Structure%20866b0507812f447a96e481f343e3ad4c/%E1%84%89%E1%85%B3%E1%84%90%E1%85%A2%E1%86%A8%203ca819ee98ee47ebb301e88793f083b2.md)
+[스택](/algorithm%20&%20data%20structure/스택/)
 
-[큐](Data%20Structure%20866b0507812f447a96e481f343e3ad4c/%E1%84%8F%E1%85%B2%201f66e228081745d98631b74d443ca36f.md)
+[큐](/algorithm%20&%20data%20structure/큐/)
 
-[덱](Data%20Structure%20866b0507812f447a96e481f343e3ad4c/%E1%84%83%E1%85%A6%E1%86%A8%20946c5fe652b74808b3c3981508d395a6.md)
+[덱](/algorithm%20&%20data%20structure/덱/)
 
-[문자열](Data%20Structure%20866b0507812f447a96e481f343e3ad4c/%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AF%20ef3270df6631430190cb3c6beb42f57f.md)
+[문자열](/algorithm%20&%20data%20structure/문자열/)
 
 ## 문제 풀이:
 
