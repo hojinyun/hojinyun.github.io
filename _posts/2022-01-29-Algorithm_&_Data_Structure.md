@@ -2,7 +2,6 @@
 layout: single
 author_profile: false
 sidebar:
-  title: "Site Map"
   nav: website-sidebar
 title:  "Algorithm & Data Structure Study (알고리즘과 자료구조)"
 categories: [Algorithm & Data Structure]
