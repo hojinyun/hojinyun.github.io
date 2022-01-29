@@ -20,7 +20,7 @@ website-sidebar:
 - title: "😀 About Me "
   url: /
   children:
-    - title: "Curriculum Vitae"
+    - title: "CV"
       url: /
 - title: "⚙️ Projects"
   children:
