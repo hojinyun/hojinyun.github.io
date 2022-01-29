@@ -19,12 +19,6 @@ website-sidebar:
   url: /
   children:
     - title: "Curriculum Vitae"
-      url: /curriculum_vitae
-    - title: "Projects"
-      url: /
-    - title: "Child Page A3"
-      url: /
-    - title: "Child Page A4"
       url: /
 - title: "⚙️ Projects"
   children:
