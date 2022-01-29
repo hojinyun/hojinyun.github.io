@@ -15,6 +15,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 website-sidebar:
+-title: "Home"
+ url: /
 - title: "😀 About Me "
   url: /
   children:
