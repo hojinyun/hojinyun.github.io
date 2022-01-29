@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 sidebar:
-  title: "Menu"
+  title: "Site Map"
   nav: website-sidebar
 title:  "Data Structure(자료구조)"
 categories: [Algorithm & Data Structure]
