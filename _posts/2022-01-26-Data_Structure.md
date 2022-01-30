@@ -1,9 +1,4 @@
 ---
-layout: single
-classes: wide
-author_profile: false
-sidebar:
-  nav: website-sidebar
 title:  "Data Structure(자료구조)"
 categories: [Algorithm & Data Structure]
 tags: [Data Structure]
