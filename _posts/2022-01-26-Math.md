@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 author_profile: false
 sidebar:
   nav: website-sidebar
