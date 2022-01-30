@@ -1,0 +1,54 @@
+---
+layout: single
+
+author_profile: false
+sidebar:
+  nav: website-sidebar
+title:  "#2609: 최대공약수와 최소공배수"
+categories: [Algorithm & Data Structure]
+tags: Math
+---
+[백준 2609번: 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+
+## 문제:
+
+두 개의 자연수를 입력받아 최대 공약수와 최소 공배수를 출력하는 프로그램을 작성하시오.
+
+## 입력:
+
+첫째 줄에는 두 개의 자연수가 주어진다. 이 둘은 10,000이하의 자연수이며 사이에 한 칸의 공백이 주어진다.
+
+## 풀이:
+
+- 이 문제를 풀기 위해서는 유클리드 호제법과 최소공배수와 최대공약수의 관계를 알아야 된다.
+- 유클리드 호제법은 최대 공약수를 구하는 방법이다.
+    1. 처음 큰수를 작은 수로 나눈다.
+    2. 나눠서 나온 나머지 값으로 앞에 작은 수를 나눈다.
+    3. 또 한번 나머지 값을 앞서 사용한 수 중 나눈 수를 나누어 준다.
+    - 이렇게 하면 마지막에 나머지가 0이 되면 나눈 값이 최대 공약수이다. 이해가 잘 안된다면 이 [위키피디아 링크](https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%ED%98%B8%EC%A0%9C%EB%B2%95)를 확인 해보길 바란다.
+- 최소 공배수는 두수의 곱에서 앞서 구한 최대 공약수로 나누어 주면 된다.
+
+### 코드:
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main(){
+	int first, second, multiple;
+	//입력
+	cin >> first;
+	cin >> second;
+	//최소공배수=두수의 곱/최대공약수이므로 나중에 최소공배수 구할 때 필요하다 
+	multiple = first*second;
+	//유클리드 호제법 구현 
+	while(first%second){
+		int temp = first;
+		first = second;
+		second = temp%second;
+	}
+	//출력 
+	cout << second <<'\n'<< multiple/second;
+}
+```
