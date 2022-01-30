@@ -15,13 +15,13 @@ tags: [Data Structure]
 
 ## 자료구조 종류:
 
-[스택](/algorithm%20&%20data%20structure/스택/)
+[스택](/algorithm%20&%20data%20structure/Stack/)
 
-[큐](/algorithm%20&%20data%20structure/큐/)
+[큐](/algorithm%20&%20data%20structure/Queue/)
 
-[덱](/algorithm%20&%20data%20structure/덱/)
+[덱](/algorithm%20&%20data%20structure/Deqeue/)
 
-[문자열](/algorithm%20&%20data%20structure/문자열/)
+[문자열](/algorithm%20&%20data%20structure/String/)
 
 ## 문제 풀이:
 
