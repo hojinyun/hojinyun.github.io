@@ -15,7 +15,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 website-sidebar:
--title: "Home"
+- title: "Home"
  url: /
 - title: "😀 About Me "
   url: /
@@ -37,7 +37,7 @@ website-sidebar:
       url: /
     - title: "└ Brute Force Algorithm(브루트 포스 알고리즘)"
       url: /algorithm%20&%20data%20structure/Brute-Force-Algorithm/
-    - title: "└ Data Structure(자료 구조)"
+    - title: "Data Structure(자료 구조)"
       url: /algorithm%20&%20data%20structure/Data-Structure/
     - title: "└ Math(수학)"
       url: /algorithm%20&%20data%20structure/Math/
