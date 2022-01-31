@@ -7,10 +7,8 @@ author_profile: false
 sidebar:
   nav: website-sidebar
 ---
-# Studies
-
 [📒 Algorithm & Data Structure(in Korean)](/Algorithm-&-Data-Structure/)
-<br>
+<br><br>
 [🤖 Machine Learning](/Machine-Learning/)
-<br>
+<br><br>
 [👀 Computer Vision](/Computer-Vision/)
