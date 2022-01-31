@@ -7,7 +7,6 @@ author_profile: false
 sidebar:
   nav: website-sidebar
 categories: [Algorithm & Data Structure]
-tags: [Algorithm & Data Structure]
 ---
 
 # 알고리즘 & 자료구조
