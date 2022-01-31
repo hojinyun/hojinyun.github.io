@@ -1,9 +1,16 @@
 ---
-title:  "Algorithm & Data Structure (알고리즘과 자료구조)"
+title: "Algorithm & Data Structure (알고리즘과 자료구조)"
+layout: single
+classes: wide
+permalink: /algorithm-&-data-structure/
+author_profile: false
+sidebar:
+  nav: website-sidebar
 categories: [Algorithm & Data Structure]
 tags: [Algorithm & Data Structure]
 ---
-# Algorithm & Data Structure
+
+# 알고리즘 & 자료구조
 
 [보기 편한 알고리즘 & 자료구조 문제풀이 노션 링크](https://hojinyun.notion.site/Algorithm-Data-Structure-Study-5e21cd5555b84504b5f2537e776310df)
 

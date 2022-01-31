@@ -1,7 +1,8 @@
 ---
 title: "Studies"
-layout: categories
-permalink: /Studies/
+layout: single
+classes: wide
+permalink: /studies/
 author_profile: false
 sidebar:
   nav: website-sidebar
