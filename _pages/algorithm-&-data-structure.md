@@ -2,7 +2,7 @@
 title: "Algorithm & Data Structure (알고리즘과 자료구조)"
 layout: single
 classes: wide
-permalink: /algorithm-&-data-structure/
+permalink: /Algorithm-&-Data-Structure/
 author_profile: false
 sidebar:
   nav: website-sidebar

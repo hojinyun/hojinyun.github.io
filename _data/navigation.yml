@@ -2,11 +2,11 @@
 main:
 
   - title: "About Me"
-    url: /about-me
+    url: /About-Me/
   - title: "Projects"
-    url: /projects
+    url: /Projects/
   - title: "Studies"
-    url: /studies
+    url: /Studies/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -17,17 +17,19 @@ main:
   #   url: /sitemap/
 website-sidebar:
 - title: "😀 About Me "
-  url: /
+  url: /About-Me/
   children:
     - title: "CV"
       url: /
 - title: "⚙️ Projects"
+  url: /Projects/
   children:
     - title: "RoboMaster Enterprise"
       url: /
     - title: "Phone Comparison Website"
       url: /
 - title: "📒 Study"
+  url: /Studies/
   children:
     - title: "Algorithm & Data Structure"
       url: /algorithm%20&%20data%20structure/Algorithm_&_Data_Structure/
