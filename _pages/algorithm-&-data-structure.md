@@ -28,6 +28,6 @@ tags: [Algorithm & Data Structure]
 
 [Brute Force Algorithm(브루트 포스 알고리즘)](/algorithm%20&%20data%20structure/Brute-Force-Algorithm/)
 
-[Data Structure(자료 구조)](/algorithm%20&%20data%20structure/Data_Structure/)
+[Data Structure(자료 구조)](/algorithm%20&%20data%20structure/Data-Structure/)
 
 [Math(수학)](/algorithm%20&%20data%20structure/Math/)
