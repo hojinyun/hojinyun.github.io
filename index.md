@@ -11,3 +11,4 @@ header:
 excerpt: "I am a student majoring in Computer Engineering at HKUST, who is interested is in computer vision and robotics."
 ---
 {% for f in site.posts limit:3 %}
+{% endfor %}
