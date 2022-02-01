@@ -7,6 +7,6 @@ author_profile: false
 sidebar:
   nav: website-sidebar
 ---
-[🤖 RoboMaster Enterprise](/Algorithm-&-Data-Structure/)
+[🤖 RoboMaster Enterprise](/projects/RoboMaster-Enterprise/)
 <br><br>
-[📱 Phone Comparison Website](/Phone-Comparison-Website/)
+[📱 Phone Comparison Website](/projects/Phone-Comparison-Website/)
