@@ -2,7 +2,7 @@
 title:  "Phone Comparison Website"
 categories: [Project]
 ---
-### [Phone Comparison Website Proejct Github](https://github.com/hojinyun/Phone_Comparison_Website)
+[Phone Comparison Website Project Github](https://github.com/hojinyun/Phone_Comparison_Website)
 
 ### Website Goal:
 
