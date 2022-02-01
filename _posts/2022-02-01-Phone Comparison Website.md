@@ -1,5 +1,5 @@
 ---
-title:  "Phone Comparison Website"
+title:  "Phone Comparison Website(on hold)"
 categories: [Project]
 ---
 [Phone Comparison Website Project Github](https://github.com/hojinyun/Phone_Comparison_Website)
