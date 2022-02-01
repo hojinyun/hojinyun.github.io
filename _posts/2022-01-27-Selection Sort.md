@@ -11,7 +11,7 @@ tags: [Sorting]
 
 ## 예시:
 
-![https://miro.medium.com/max/1400/1*5WXRN62ddiM_Gcf4GDdCZg.gif](https://miro.medium.com/max/1400/1*5WXRN62ddiM_Gcf4GDdCZg.gif)
+![http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/SelectionEg02.gif](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/SelectionEg02.gif)
 
 ## 예시 코드:
 
