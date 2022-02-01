@@ -2,11 +2,11 @@
 title: "Projects"
 layout: single
 classes: wide
-permalink: /Projects/
+permalink: /Project/
 author_profile: false
 sidebar:
   nav: website-sidebar
 ---
-[🤖 RoboMaster Enterprise](/projects/RoboMaster-Enterprise/)
+[🤖 RoboMaster Enterprise](/project/RoboMaster-Enterprise/)
 <br><br>
-[📱 Phone Comparison Website](/projects/Phone-Comparison-Website/)
+[📱 Phone Comparison Website](/project/Phone-Comparison-Website/)
