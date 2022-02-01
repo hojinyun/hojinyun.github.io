@@ -4,7 +4,7 @@ main:
   - title: "About Me"
     url: /About-Me/
   - title: "Projects"
-    url: /Projects/
+    url: /Project/
   - title: "Studies"
     url: /Studies/
   # - title: "About"
@@ -22,7 +22,7 @@ website-sidebar:
     - title: "CV"
       url: /
 - title: "⚙️ Projects"
-  url: /Projects/
+  url: /Project/
   children:
     - title: "RoboMaster Enterprise"
       url: /
