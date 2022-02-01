@@ -16,7 +16,7 @@ tags: [Sorting]
 
 ## 예시:
 
-![https://miro.medium.com/max/832/1*mh9np1i9PCF2F-4dSEMKuA.gif](https://miro.medium.com/max/832/1*mh9np1i9PCF2F-4dSEMKuA.gif)
+![https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
 
 ## 예시 코드:
 
