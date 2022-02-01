@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/ocean-with-rocks.jpg
+  overlay_image: /assets/images/ocean-with-island.jpg
   actions:
     - label: "About Me"
       url: "/About-Me/"
