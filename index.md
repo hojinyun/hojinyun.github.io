@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Hojin's Blog"
+title: "Welcome"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,5 +8,6 @@ header:
   actions:
     - label: "About Me"
       url: "/About-Me/"
-excerpt: "I am a student majoring in Computer Engineering at HKUST, who is interested is in computer vision and rbotics."
+excerpt: "I am a student majoring in Computer Engineering at HKUST, who is interested is in computer vision and robotics."
 ---
+{% include feature_row %}
