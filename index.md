@@ -12,7 +12,7 @@ excerpt: "I am a student majoring in Computer Engineering at HKUST, who is inter
 ---
 # Recent Posts
 <div class="grid__wrapper">
-  {% for post in site.posts limit:12 %}
-    {% include archive-single.html type="list" %}
+  {% for post in site.posts limit:8 %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
