@@ -11,7 +11,7 @@ tags: [Sorting]
 
 ## 예시:
 
-![http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/bubble2.gif](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/bubble2.gif)
+![https://upload.wikimedia.org/wikipedia/commons/0/06/Bubble-sort.gif](https://upload.wikimedia.org/wikipedia/commons/0/06/Bubble-sort.gif)
 
 ## 예시 코드:
 

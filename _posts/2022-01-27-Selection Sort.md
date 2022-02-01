@@ -11,7 +11,7 @@ tags: [Sorting]
 
 ## 예시:
 
-![http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/SelectionEg02.gif](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/SelectionEg02.gif)
+![https://res.cloudinary.com/practicaldev/image/fetch/s--_C8NbmfJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://stackabuse.s3.amazonaws.com/media/selection-sort-in-javascript-1.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--_C8NbmfJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://stackabuse.s3.amazonaws.com/media/selection-sort-in-javascript-1.gif)
 
 ## 예시 코드:
 

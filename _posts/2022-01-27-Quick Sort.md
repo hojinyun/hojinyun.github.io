@@ -16,7 +16,7 @@ tags: [Sorting]
 
 ## 예시:
 
-![http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/quick2.gif](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/quick2.gif)
+![https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
 
 ## 예시 코드:
 

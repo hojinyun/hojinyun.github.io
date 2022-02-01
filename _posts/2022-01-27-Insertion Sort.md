@@ -11,9 +11,12 @@ tags: [Sorting]
 
 ## 예시:
 
+![https://en.wikipedia.org/wiki/Insertion_sort#/media/File:Insertion-sort-example-300px.gif](https://en.wikipedia.org/wiki/Insertion_sort#/media/File:Insertion-sort-example-300px.gif)
+
 1 5 10 8 7 6 4 같은 숫자가 있을 때 4번째 숫자 8은 들어 갈 수 있는 자리가
 
 _ 1 _ 5 _ 10 _  이렇게 있다. 10과 처음에 비교를 하고 5와도 비교를 10보다 작으니 위치를 바꾸고 5와 비교를 하였지만 5보다 크므로 자리를 안바꾸고 다음 인덱스의 7로 넘어간다.
+
 
 ## 예시 코드:
 
