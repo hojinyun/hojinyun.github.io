@@ -10,8 +10,9 @@ header:
       url: "/About-Me/"
 excerpt: "I am a student majoring in Computer Engineering at HKUST, who is interested is in computer vision and robotics."
 ---
+# Recent Posts
 <div class="feature__wrapper">
-  {% for post in site.posts limit:3 %}
+  {% for post in site.posts limit:8 %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
