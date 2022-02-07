@@ -34,14 +34,16 @@ website-sidebar:
     - title: "Algorithm & Data Structure"
       url: /algorithm%20&%20data%20structure/Algorithm_&_Data_Structure/
       children:
-    - title: "└ Sorting(정렬)"
+    - title: "└ Sorting"
       url: /algorithm%20&%20data%20structure/Sorting/
-    - title: "└ Brute Force(브루트 포스 알고리즘)"
+    - title: "└ Brute Force"
       url: /algorithm%20&%20data%20structure/Brute-Force-Algorithm/
-    - title: "└ Data Structure(자료 구조)"
+    - title: "└ Data Structure"
       url: /algorithm%20&%20data%20structure/Data-Structure/
-    - title: "└ Math(수학)"
+    - title: "└ Math"
       url: /algorithm%20&%20data%20structure/Math/
+    - title: "└ Dynamic Programming"
+      url: /algorithm%20&%20data%20structure/Dynamic-Programming/
     - title: "Machine Learning"
       url: /
     - title: "Computer Vision"
