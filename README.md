@@ -9,6 +9,9 @@ This repository is for personal blog forked from Minimal Mistakes. It contains p
 - [Contributing](#Contributing)
 - [License](#License)
 
+## Install
+Clone or fork the repository and name the repository as (github username).github.io, and go to (github username).github.io link after two minutes.
+
 ## Maintainer
 Hojin Yun / 윤호진 | Contact: hojinyun.dev@gmail.com
 
