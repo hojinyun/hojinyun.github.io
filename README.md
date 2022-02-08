@@ -3,8 +3,8 @@
 This repository is for personal blog forked from Minimal Mistakes. It contains posts and webpages with different features for the blog.
 
 ## Table of Contents
-
-- [Maintainer](#maintainer)
+- [Install](#Install)
+- [Maintainer](#Maintainer)
 - [Credits](#Credits)
 - [Contributing](#Contributing)
 - [License](#License)
