@@ -32,7 +32,7 @@ tags: Dynamic Programming
 
 [#1463: 1로 만들기](/algorithm%20&%20data%20structure/1463-1로-만들기/)
 
-[#11726: 2×n 타일링](/algorithm%20&%20data%20structure/11726-2×n-타일링/)
+[#11726: 2×n 타일링](/algorithm%20&%20data%20structure/11726-2-n-타일링/)
 
 ### 골드(Gold):
 
