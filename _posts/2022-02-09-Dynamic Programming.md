@@ -33,6 +33,11 @@ tags: Dynamic Programming
 [#1463: 1로 만들기](/algorithm%20&%20data%20structure/1463-1로-만들기/)
 
 [#11726: 2×n 타일링](/algorithm%20&%20data%20structure/11726-2-n-타일링/)
+<<<<<<< HEAD:_posts/2022-02-09-Dynamic Programming.md
+
+[#11727: 2×n 타일링 2](/algorithm%20&%20data%20structure/11726-2-n-타일링-2/)
+=======
+>>>>>>> 373b78903d1e116ad0140dbc3d8e5be5bd0c268e:_posts/2022-02-08-Dynamic Programming.md
 
 ### 골드(Gold):
 
