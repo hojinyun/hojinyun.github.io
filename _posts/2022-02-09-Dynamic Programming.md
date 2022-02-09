@@ -1,7 +1,7 @@
 ---
 title:  "Dynamic Programming(동적 프로그래밍)"
 categories: [Algorithm & Data Structure]
-tags: Dynamic Programming
+tags: [Dynamic Programming]
 ---
 # 동적 프로그래밍
 
