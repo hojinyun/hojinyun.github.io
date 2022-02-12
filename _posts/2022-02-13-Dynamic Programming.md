@@ -34,6 +34,10 @@ tags: [Dynamic Programming]
 
 [#9095: 1, 2, 3 더하기](/algorithm%20&%20data%20structure/9095-1,-2,-3-더하기)
 
+[#11052: 카드 구매하기](/algorithm%20&%20data%20structure/11052-카드-구매하기/)
+
+[#16194: 카드 구매하기 2](/algorithm%20&%20data%20structure/16194-카드-구매하기-2/)
+
 [#11726: 2×n 타일링](/algorithm%20&%20data%20structure/11726-2-n-타일링/)
 
 [#11727: 2×n 타일링 2](/algorithm%20&%20data%20structure/11726-2-n-타일링-2/)
