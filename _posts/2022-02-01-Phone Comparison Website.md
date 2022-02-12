@@ -1,6 +1,7 @@
 ---
 title:  "Phone Comparison Website(on hold)"
 categories: [Project]
+tags: [Phone Comparison Website]
 ---
 [Phone Comparison Website Project Github](https://github.com/hojinyun/Phone_Comparison_Website)
 
