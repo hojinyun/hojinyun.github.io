@@ -40,6 +40,8 @@ tags: [Dynamic Programming]
 
 [#11052: 카드 구매하기](/algorithm%20&%20data%20structure/11052-카드-구매하기/)
 
+[#11053: 가장 긴 증가하는 부분 수열](/algorithm%20&%20data%20structure/11053-가장-긴-증가하는-부분-수열/)
+
 [#16194: 카드 구매하기 2](/algorithm%20&%20data%20structure/16194-카드-구매하기-2/)
 
 [#11726: 2×n 타일링](/algorithm%20&%20data%20structure/11726-2-n-타일링/)
