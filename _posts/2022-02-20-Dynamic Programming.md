@@ -38,6 +38,8 @@ tags: [Dynamic Programming]
 
 [#2193: 이친수](/algorithm%20&%20data%20structure/2193-이친수/)
 
+[#2225: 합분해](/algorithm%20&%20data%20structure/2225-합분해/)
+
 [#9095: 1, 2, 3 더하기](/algorithm%20&%20data%20structure/9095-1,-2,-3-더하기)
 
 [#10844: 쉬운 계단 수](/algorithm%20&%20data%20structure/10844-쉬운-계단-수)
