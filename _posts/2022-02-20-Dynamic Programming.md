@@ -32,6 +32,8 @@ tags: [Dynamic Programming]
 
 [#1463: 1로 만들기](/algorithm%20&%20data%20structure/1463-1로-만들기/)
 
+[#1699: 제곱수의 합](/algorithm%20&%20data%20structure/1699-제곱수의-합/)
+
 [#1912: 연속합](/algorithm%20&%20data%20structure/1912-연속합/)
 
 [#2193: 이친수](/algorithm%20&%20data%20structure/2193-이친수/)
