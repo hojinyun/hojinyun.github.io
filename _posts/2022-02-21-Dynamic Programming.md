@@ -56,6 +56,8 @@ tags: [Dynamic Programming]
 
 [#14002: 가장 긴 증가하는 부분 수열 4](/algorithm%20&%20data%20structure/14002-가장-긴-증가하는-부분-수열-4/)
 
+[#15988: 1, 2, 3 더하기 3](/algorithm%20&%20data%20structure/15988-1,-2,-3-더하기-3)
+
 [#15990: 1, 2, 3 더하기 5](/algorithm%20&%20data%20structure/15990-1,-2,-3-더하기-5)
 
 
