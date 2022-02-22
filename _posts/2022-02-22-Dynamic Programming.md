@@ -26,9 +26,11 @@ tags: [Dynamic Programming]
 
 ## 문제 풀이:
 
-### 브론즈(Bronze):
+#### 🥉브론즈(Bronze):
 
-### 실버(Silver):
+#### 🥈실버(Silver):
+
+[#1149: RGB거리](/algorithm%20&%20data%20structure/1149-RGB거리/)
 
 [#1463: 1로 만들기](/algorithm%20&%20data%20structure/1463-1로-만들기/)
 
@@ -61,6 +63,6 @@ tags: [Dynamic Programming]
 [#15990: 1, 2, 3 더하기 5](/algorithm%20&%20data%20structure/15990-1,-2,-3-더하기-5)
 
 
-### 골드(Gold):
+#### 🥇골드(Gold):
 
-### 플레티넘(Platinum):
+#### 👑플레티넘(Platinum):
