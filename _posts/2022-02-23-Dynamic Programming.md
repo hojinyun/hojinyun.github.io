@@ -32,6 +32,8 @@ tags: [Dynamic Programming]
 
 [#1149: RGB거리](/algorithm%20&%20data%20structure/1149-RGB거리/)
 
+[#1309번: 동물원](/algorithm%20&%20data%20structure/1309번-동물원/)
+
 [#1463: 1로 만들기](/algorithm%20&%20data%20structure/1463-1로-만들기/)
 
 [#1699: 제곱수의 합](/algorithm%20&%20data%20structure/1699-제곱수의-합/)
