@@ -44,6 +44,8 @@ tags: [Dynamic Programming]
 
 [#9095: 1, 2, 3 더하기](/algorithm%20&%20data%20structure/9095-1,-2,-3-더하기)
 
+[#9465: 스티커](/algorithm%20&%20data%20structure/9465-스티커)
+
 [#10844: 쉬운 계단 수](/algorithm%20&%20data%20structure/10844-쉬운-계단-수)
 
 [#11052: 카드 구매하기](/algorithm%20&%20data%20structure/11052-카드-구매하기/)
