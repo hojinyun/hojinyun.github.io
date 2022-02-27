@@ -40,6 +40,8 @@ tags: [Dynamic Programming]
 
 [#1912: 연속합](/algorithm%20&%20data%20structure/1912-연속합/)
 
+[#1932: 정수 삼각형](/algorithm%20&%20data%20structure/1932-정수-삼각형/)
+
 [#2156: 포도주 시식](/algorithm%20&%20data%20structure/2156-포도주-시식/)
 
 [#2193: 이친수](/algorithm%20&%20data%20structure/2193-이친수/)
