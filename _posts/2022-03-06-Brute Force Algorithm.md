@@ -19,11 +19,13 @@ BFS나 백트레킹도 마찬가지도 포함 된다.
 
 #### 🥉브론즈(Bronze):
 
-[#2702: 초6 수학](/algorithm%20&%20data%20structure/2702-%EC%B4%886-%EC%88%98%ED%95%99/)
+[#2309: 일곱 난쟁이](/algorithm%20&%20data%20structure/2309-일곱-난쟁이/)
 
-[#2386: 도비의 영어 공부](/algorithm%20&%20data%20structure/2386-%EB%8F%84%EB%B9%84%EC%9D%98-%EC%98%81%EC%96%B4-%EA%B3%B5%EB%B6%80/)
+[#2702: 초6 수학](/algorithm%20&%20data%20structure/2702-초6-수학/)
 
-[#14626: ISBN](Brute%20Force%20Algorithm%20a31ed844bacf47e09995ba52074a2c03/#14626%20ISBN%20e0d9e39c6074415c95896a8668d62a14.md)
+[#2386: 도비의 영어 공부](/algorithm%20&%20data%20structure/2386-도비의-영어-공부/)
+
+[#14626: ISBN](/algorithm%20&%20data%20structure/14626-ISBN/)
 
 #### 🥈실버(Silver):
 
