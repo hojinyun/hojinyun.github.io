@@ -31,6 +31,8 @@ BFS나 백트레킹도 마찬가지도 포함 된다.
 
 [#1697: 숨박꼭질 (w/ BFS, Graph)](/algorithm%20&%20data%20structure/1697-숨박꼭질/)
 
+[#3085: 사탕 게임](/algorithm%20&%20data%20structure/3085-사탕-게임/)
+
 [#15649: N과 M(1)](/algorithm%20&%20data%20structure/15649-N과-M(1)/)
 
 [#15650: N과 M(2)](/algorithm%20&%20data%20structure/15649-N과-M(1)/)
