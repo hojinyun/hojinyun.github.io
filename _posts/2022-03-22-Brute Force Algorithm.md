@@ -43,6 +43,8 @@ BFS나 백트레킹도 마찬가지도 포함 된다.
 
 [#1107: 리모컨](/algorithm%20&%20data%20structure/1107-리모컨/)
 
+[#14500: 테트로미노](/algorithm%20&%20data%20structure/14500-테트로미노/)
+
 [#14502: 연구소 (w/ BFS, Graph)](/algorithm%20&%20data%20structure/14502-연구소/)
 
 [#16638: 괄호 추가하기 2(나중에 다시 풀어보기)](/algorithm%20&%20data%20structure/16638-괄호-추가하기-2/)
