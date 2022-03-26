@@ -41,7 +41,9 @@ BFS나 백트레킹도 마찬가지도 포함 된다.
 
 [#15649: N과 M(1)](/algorithm%20&%20data%20structure/15649-N과-M(1)/)
 
-[#15650: N과 M(2)](/algorithm%20&%20data%20structure/15649-N과-M(1)/)
+[#15650: N과 M(2)](/algorithm%20&%20data%20structure/15650-N과-M(2)/)
+
+[#15652: N과 M(4)](/algorithm%20&%20data%20structure/15652-N과-M(4)/)
 
 #### 🥇골드(Gold):
 
