@@ -33,15 +33,23 @@ BFS나 백트레킹도 마찬가지도 포함 된다.
 
 [#1697: 숨박꼭질 (w/ BFS, Graph)](/algorithm%20&%20data%20structure/1697-숨박꼭질/)
 
+[#1748: 수 이어 쓰기 1](/algorithm%20&%20data%20structure/1748-수-이어-쓰기-1)
+
 [#3085: 사탕 게임](/algorithm%20&%20data%20structure/3085-사탕-게임/)
+
+[#6064: 카잉 달력](/algorithm%20&%20data%20structure/6064-카잉-달력/)
 
 [#15649: N과 M(1)](/algorithm%20&%20data%20structure/15649-N과-M(1)/)
 
-[#15650: N과 M(2)](/algorithm%20&%20data%20structure/15649-N과-M(1)/)
+[#15650: N과 M(2)](/algorithm%20&%20data%20structure/15650-N과-M(2)/)
+
+[#15652: N과 M(4)](/algorithm%20&%20data%20structure/15652-N과-M(4)/)
 
 #### 🥇골드(Gold):
 
 [#1107: 리모컨](/algorithm%20&%20data%20structure/1107-리모컨/)
+
+[#14500: 테트로미노](/algorithm%20&%20data%20structure/14500-테트로미노/)
 
 [#14502: 연구소 (w/ BFS, Graph)](/algorithm%20&%20data%20structure/14502-연구소/)
 
