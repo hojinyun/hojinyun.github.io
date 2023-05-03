@@ -8,7 +8,7 @@ header:
   actions:
     - label: "About Me"
       url: "/About-Me/"
-excerpt: "I am a student majoring in Computer Engineering at HKUST, who has interests in computer vision and robotics."
+excerpt: "I am a student majoring in Electronic Engineering at HKUST, who has interests in digital circuit design."
 ---
 # Recent Posts
 <div class="grid__wrapper">
